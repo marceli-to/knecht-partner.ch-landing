@@ -1,0 +1,29 @@
+title: Settings
+fields:
+  -
+    handle: debug
+    field:
+      type: toggle
+      display: Debug
+  -
+    handle: css_class
+    field:
+      options:
+        privacy: Datenschutz
+        imprint: Impressum
+        contact: Kontakt
+        exhibitions: Ausstellungen
+        exterior: Draussen
+        opposite: Gegenüber
+      type: select
+      display: 'CSS Class'
+  -
+    handle: template
+    field:
+      type: template
+      display: Template
+  -
+    handle: layout
+    field:
+      type: template
+      display: Layout
