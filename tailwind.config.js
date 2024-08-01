@@ -18,41 +18,22 @@ export default {
 
       screens: {
         'xs': '480px',
-        'lg': '900px',
       },
 
       maxWidth: {
-        '8xl': '1440px',
       },
 
       colors: {
-        'mist': '#e6e6e6',
-        'snow': '#f8f8f8',
-        'mint': '#19faaf',
-        'scarlett': '#ff0000',
-        'azure': '#0000ff',
-        'graphite': '#3c3c3c',
-        'teal': '#00be78',
       },
 
       fontFamily: {
-        'gt-alpina-regular': ['GT-Alpina-Standard-Regular', ...defaultTheme.fontFamily.sans],
-        'gt-alpina-light': ['GT-Alpina-Standard-Light', ...defaultTheme.fontFamily.sans],
+        'cadiz-book': ['Cadiz-Book', ...defaultTheme.fontFamily.sans],
+        'cadiz-semibold': ['Cadiz-SemiBold', ...defaultTheme.fontFamily.sans],
       },
 
       fontSize: {
-        'tiny': '0.9375rem',    // 15px
-        'xxxs': '1rem',         // 16px
-        'xxs':  '1.25rem',      // 20px
-        'xs':  '1.375rem',      // 22px
-        'sm':  '1.5625rem',    // 25px
-        'md':  '1.875rem',     // 30px
-        'lg':  '2.1875rem',    // 35px
-        'xl':  '2.5rem',       // 40px
-        '2xl': '3.125rem',    // 50px
-        '3xl': '3.75rem',     // 60px
-        '4xl': '4.6875rem',   // 75px
-        '5xl': '6.25rem',     // 100px
+        'sm': '1rem',        // 16px
+        'md':  '1.375rem',   // 22px
       },
       
       zIndex: {
