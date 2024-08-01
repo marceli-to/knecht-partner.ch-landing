@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-0f70ad4b.css",
+    "file": "assets/app-c96437b9.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
@@ -21,7 +21,7 @@
     "src": "resources/css/fonts/Cadiz-SemiBold.woff2"
   },
   "resources/js/app.js": {
-    "file": "assets/app-c0b1821c.js",
+    "file": "assets/app-bc3b7b77.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   }
