@@ -4,7 +4,7 @@
 }
 
 .swiper img {
-  @apply w-full h-auto lg:h-[calc(100vh_-_60px)] lg:w-full lg:object-cover
+  @apply w-full h-auto object-cover max-h-[360px] md:max-h-[620px] lg:max-h-none lg:h-[calc(100vh_-_60px)] lg:w-full 
 }
 
 .swiper-button-next,
