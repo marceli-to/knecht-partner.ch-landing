@@ -34,7 +34,9 @@ export default {
       fontSize: {
         'tiny': '.75rem',    // 12px
         'sm': '1rem',        // 16px
-        'md':  '1.375rem',   // 22px
+        // md, 18px in rem
+        'md':  '1.125rem',   // 18px
+        //'md':  '1.375rem',   // 22px
       },
       
       zIndex: {
