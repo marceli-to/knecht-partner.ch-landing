@@ -1,0 +1,28 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-7e3733f2.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/fonts/Cadiz-Book.woff": {
+    "file": "assets/Cadiz-Book-dee0262a.woff",
+    "src": "resources/css/fonts/Cadiz-Book.woff"
+  },
+  "resources/css/fonts/Cadiz-Book.woff2": {
+    "file": "assets/Cadiz-Book-61a02a04.woff2",
+    "src": "resources/css/fonts/Cadiz-Book.woff2"
+  },
+  "resources/css/fonts/Cadiz-SemiBold.woff": {
+    "file": "assets/Cadiz-SemiBold-98646da0.woff",
+    "src": "resources/css/fonts/Cadiz-SemiBold.woff"
+  },
+  "resources/css/fonts/Cadiz-SemiBold.woff2": {
+    "file": "assets/Cadiz-SemiBold-7825d393.woff2",
+    "src": "resources/css/fonts/Cadiz-SemiBold.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-bc3b7b77.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
